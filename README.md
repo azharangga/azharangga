@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🎓 About Me  
-I’m a Web Developer focused on building responsive web applications and information systems. With a solid foundation in **<u>Computer Science from STMIK IKMI Cirebon</u>**, I have honed my technical skills through **<u>internships, industry-driven projects, and personal initiatives</u>**. While web development remains my primary focus, I actively expand my knowledge into other fields such as Machine Learning and UI/UX design to deliver more comprehensive and user-centered digital solutions.
+I’m a Web Developer focused on building responsive web applications and information systems. With a solid foundation in **<u>Computer Science from STMIK IKMI Cirebon</u>**, I have honed my technical skills through **<u>internships, industry-driven projects, and personal initiatives</u>**. While web development remains my primary focus, I actively expand my knowledge into other fields such as Machine Learning, Generative AI, and UI/UX design to deliver more comprehensive and user-centered digital solutions.
 
 - 🛠️ Preferred Stack: Next.js, React.js, Node.js, and modern UI/database tools.
 - 📌 Work Style: Crafting interactive, modern, and user-friendly web experiences.
-- 🌱 Current Direction: Expanding my knowledge in Web Development, Machine Learning, and UI/UX Design.
+- 🌱 Current Direction: Expanding my knowledge in Web Development, Machine Learning, Generative AI, and UI/UX Design.
 - 🤝 Open To: Collaboration on meaningful web products and open-source initiatives.
 
 ### 🚀 What I'm Working On  
@@ -19,6 +19,7 @@ My latest project is **Job Tracker**, a modern and professional web application 
 
 I’m currently focusing on:  
 - **Web Development**: Building modern, interactive, and responsive web applications using technologies such as Next.js, React.js, Node.js, and REST APIs.
+- **Generative AI**: Exploring Large Language Models (LLMs), prompt engineering, and integrating AI features/chatbots using API services to build interactive and intelligent web experiences.
 - **Machine Learning**: Exploring computer vision, natural language processing, and time series forecasting by developing machine learning, deep learning, and artificial intelligence models with TensorFlow, Keras, and Scikit-learn.
 - **UI/UX Design**: Designing intuitive user interfaces, wireframes, and high-fidelity prototypes in Figma with a focus on usability, consistency, and modern design principles.
 
