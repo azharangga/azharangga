@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🎓 About Me  
-I’m a Web Developer focused on building responsive web applications and information systems. With a solid foundation in **<u>Computer Science from STMIK IKMI Cirebon</u>**, I have honed my technical skills through **<u>internships, industry-driven projects, and personal initiatives</u>**. While web development remains my primary focus, I actively expand my knowledge into other fields such as Machine Learning, AI, and UI/UX design to deliver more comprehensive and user-centered digital solutions.
+I’m a Web Developer focused on building responsive web applications and information systems. With a solid foundation in **<u>Computer Science from STMIK IKMI Cirebon</u>**, I have honed my technical skills through **<u>internships, industry-driven projects, and personal initiatives</u>**. While web development remains my primary focus, I actively expand my knowledge into other fields such as Machine Learning and UI/UX design to deliver more comprehensive and user-centered digital solutions.
 
 - 🛠️ Preferred Stack: Next.js, React.js, Node.js, and modern UI/database tools.
 - 📌 Work Style: Crafting interactive, modern, and user-friendly web experiences.
