@@ -56,19 +56,16 @@ I strive to continuously learn and grow, staying adaptable in the ever-evolving 
 ### 📊 GitHub Stats  
 <p align="center">
   <a href="https://github.com/azharangga">
-    <img src="https://ghstats.dev/api/card?username=azharangga&theme=radical&hide=followers%2Cgrade%2Cstars%2Cprs%2Cissues" width="49%" alt="GitHub Stats Card" />
+    <img src="https://ghstats.dev/api/card?username=azharangga&theme=radical&hide_border=true&hide=followers%2Cgrade%2Cweek%2Cprs%2Cissues%2Crepos%2Cactive_day"  width="49%" alt="GitHub Stats Card" />
+  </a>
+  <a href="https://github.com/azharangga">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharangga&theme=radical&hide_border=true&card_height=255" width="49%" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/azharangga">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharangga&theme=radical&hide_border=false&border=FF2E93" width="49%" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/azharangga">
-    <img src="https://ghstats.dev/api/langs?username=azharangga&theme=radical&layout=horizontal_list" alt="Top Languages" />
+    <img src="https://ghstats.dev/api/langs?username=azharangga&theme=radical&layout=horizontal_list&hide_border=true" width="60%" alt="Top Languages" />
   </a>
 </p>
 
