@@ -56,16 +56,19 @@ I strive to continuously learn and grow, staying adaptable in the ever-evolving 
 ### 📊 GitHub Stats  
 <p align="center">
   <a href="https://github.com/azharangga">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=azharangga&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/azharangga">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharangga&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+    <img src="https://ghstats.dev/api/card?username=azharangga&theme=radical&hide=followers%2Cgrade%2Cstars%2Cprs%2Cissues" width="49%" alt="GitHub Stats Card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/azharangga">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azharangga&theme=radical&hide_border=true&layout=compact&langs_count=8" width="42%" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharangga&theme=radical&hide_border=false&border=FF2E93" width="49%" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/azharangga">
+    <img src="https://ghstats.dev/api/langs?username=azharangga&theme=radical&layout=horizontal_list" alt="Top Languages" />
   </a>
 </p>
 
