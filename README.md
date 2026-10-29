@@ -61,11 +61,9 @@ I strive to continuously learn and grow, staying adaptable in the ever-evolving 
   <a href="https://github.com/azharangga">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharangga&theme=radical&hide_border=true&card_height=255" width="49%" alt="GitHub Streak" />
   </a>
-</p>
-
-<p align="center">
+  <br />
   <a href="https://github.com/azharangga">
-    <img src="https://ghstats.dev/api/langs?username=azharangga&theme=radical&layout=horizontal_list&hide_border=true" width="60%" alt="Top Languages" />
+    <img src="https://ghstats.dev/api/langs?username=azharangga&theme=radical&layout=horizontal_list&hide_border=true" width="59%" alt="Top Languages" />
   </a>
 </p>
 
